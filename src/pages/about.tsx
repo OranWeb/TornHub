@@ -58,7 +58,7 @@ const About: React.FC = () => (
               <div className="post-content">
                 <h5>
                   TornHub a Torn City Fan Site <br />
-                <a href="https://github.com/oranweb/tornhubs">Github link</a>
+                <a href="https://github.com/OranWeb/tornhub">Github link</a>
                 </h5>
             
               </div>
