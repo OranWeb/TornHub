@@ -1,0 +1,12 @@
+- id: speeches
+  description: Some of the greatest words ever spoken.
+  image: img/speeches-cover.jpg
+- id: About TornHub
+  description: Posts that detail about TornHub.
+  image: img/temp/welcome-to-tornhub.jpg
+- id: Faction Focus
+  description: Faction Focus Segment Documenting Torn Factions
+  image: img//temp/faction-focus-template.jpg
+- id: Daily Forums News
+  description: A Segment that covers whats happening in the forums
+  image: img//temp/daily-forums-news.jpg

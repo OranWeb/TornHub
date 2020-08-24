@@ -1,0 +1,6 @@
+Font: Forque
+Size 157px
+layout: 
+        tornhub logo
+         faction image
+         "Faction Focus: x" (drop shadow orange/yellow)
