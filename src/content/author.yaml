@@ -1,6 +1,6 @@
 - id: ORAN
   avatar: avatars/oranprofile.jpg
-  bio: ORAN is the Founder, Main Developer and Maintainer of TornHub Project
+  bio: ORAN is the Founder, Main Developer and Maintainer of The TornHub Project.
   twitter:
   facebook:
   website: https://oran.pw/
@@ -10,6 +10,6 @@
   bio: This is another test author with a profile background image
   twitter: TryGhost
   facebook: ghost
-  website: https://ghost.org/
+  website:
   location: San Francisco
   profile_image: img/alex-knight-326705-unsplash.jpg
