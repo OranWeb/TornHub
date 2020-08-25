@@ -9,7 +9,7 @@ draft: false
 excerpt: Wuss Popin
 ---
 
-##### _[go here](../../tags/daily-forums-news/) to see all forums news_
+##### _[go here](../../tags/daily-forums-news/) to read all forums news_
 
 Daily Forums News is a Segment where we cover things that happen in Torn forums and sometimes elsewhere.
 
@@ -47,9 +47,12 @@ TIL Wall_St got their [Oblideration Honor Bar](https://www.torn.com/forums.php#/
 
 CLoVeR Got their 10K Drug Crimes [Merit.](https://www.torn.com/forums.php#/p=threads&f=16&t=16181756&b=0&a=0)  
 
-Robberhood made a thread about [Money Deposit into faction from hospital](https://www.torn.com/forums.php#/p=threads&f=3&t=16181664&b=0&a=0) at day 10  
+Robberhood made a thread about [Money Deposit into faction from hospital](https://www.torn.com/forums.php#/p=threads&f=3&t=16181664&b=0&a=0) He's wondering if its intended by design or an overlooked inconsistency.    
 
-**Forums Quality; kinda ok i would say/**
+**Forums Quality; kinda ok i would say, wish there was some salt.**
 
-**Today's Forum news was Brought to you by TornHub go read more about it [here](https://torn.oran.pw/welcome-to-tornhub/)  
-See ya Tomorrow(maybe idk)**
+**Today's Forum news was Brought to you by The TornHub Project go read more about it [here](https://torn.oran.pw/welcome-to-tornhub/)**
+
+**See ya Tomorrow(maybe idk)**
+
+and the obligatory _[go here](../../tags/daily-forums-news/) to read all forums news_
