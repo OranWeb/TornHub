@@ -28,7 +28,7 @@ export const Footer: React.FC = () => {
           <a href="https://www.reddit.com/r/Tornhub" target="_blank" rel="noopener noreferrer">
             Reddit
           </a>
-          <a href="https://torn.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.torn.com/forums.php#p=threads&f=2&t=16181641" target="_blank" rel="noopener noreferrer">
             Forums
           </a>
           <a href="/welcome-to-tornhub" target="_blank" rel="noopener noreferrer">
