@@ -23,7 +23,7 @@ A: Moms Spaghetti
 4: do you buy my stuff?  
 A; Yes  
 
-_Just FYI: We've made our [discord]() a "community discord" so you can follow the Articles-Release channel into your own server or a channel that you manage so you can keep up with the news and articles daily, if you need Help setting it up feel free to PM ORAN in torn or Discord.*_
+_Just FYI: We've made our [discord](https://discord.gg/yvNCTXB) a "community discord" so you can follow the #Articles-Release channel into your own server or a channel that you manage so you can keep up with the news and articles daily, if you need Help setting it up feel free to PM ORAN in torn or Discord.*_
 
 Hammi made a Thread [Here](https://www.torn.com/forums.php#/p=threads&f=2&t=16181709&b=0&a=0) a Debate on whether its Semi or Sem-eye.  
 
