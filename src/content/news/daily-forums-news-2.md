@@ -31,9 +31,7 @@ This is from 10 days ago but a good read nonetheless, Hemi made a thread about D
 
 Wall_St will test some weapons for you [here](https://www.torn.com/forums.php?p=threads&f=2&t=16181742&b=0&a=0)
 
-Andyman's 'wife' Wins the Lotto, everyone was sceptical at first but andy [Showed up with some proof](https://www.torn.com/forums.php#/p=threads&f=2&t=16181631&b=0&a=0)  and quickly shut down all theories of his ~~multi~~ 'wife' being a multi
-
-B3 Had their [First 25K](https://www.torn.com/forums.php#/p=threads&f=16&t=16181618&b=0&a=0&start=0&to=0) Chain, if you scroll a little you'll find a screenshot of the chain report.  
+Andyman's 'wife' Wins the Lotto, everyone was sceptical at first but andy [Showed up with some proof](https://www.torn.com/forums.php#/p=threads&f=2&t=16181631&b=0&a=0)  and quickly shut down all theories of his ~~multi~~ 'wife' being a multi   
 
 MichaelMyers was wondering where all the [tailor's dummy's were hiding](https://www.torn.com/forums.php#/p=threads&f=3&t=16181729&b=0&a=0)   
 
