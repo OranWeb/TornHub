@@ -25,7 +25,7 @@ A; Yes
 
 _Just FYI: We've made our [discord](https://discord.gg/yvNCTXB) a "community discord" so you can follow the #Articles-Release channel into your own server or a channel that you manage so you can keep up with the news and articles daily, if you need Help setting it up feel free to PM ORAN in torn or Discord.*_
 
-Hammi made a Thread [Here](https://www.torn.com/forums.php#/p=threads&f=2&t=16181709&b=0&a=0) a Debate on whether its Semi or Sem-eye.  
+Hammi made a Thread [Here](https://www.torn.com/forums.php#/p=threads&f=2&t=16181709&b=0&a=0) its a Debate on whether its Semi or Sem-eye.  
 
 This is from 10 days ago but a good read nonetheless, Hemi made a thread about Duke [Losing to Bacon](https://www.torn.com/forums.php#/p=threads&f=2&t=16179974&b=0&a=0).  
 
