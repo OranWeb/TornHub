@@ -11,7 +11,7 @@ excerpt: Daily Forums News for 24/8/20
 
 ##### _[go here](../../tags/daily-forums-news/) to see all forums news_
 
-test [TEST LINK TEXT](https://google.com){:target="_blank"}  
+[TEST TEXT](https://google.com){target="_blank"}  
 
 Since the Daily TL;DR stopped i decided to pick it up and ruin your all lives again. you're welcome. This will be a little bit more than tl;dr but i will try to keep it interesting ofcourse. i kept the title simple but more than just the forums will be covered.
 
