@@ -51,7 +51,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'TornHub',
   description: 'A Fan Site for Torn City',
-  coverImage: 'img/blog-cover.png',
+  coverImage: 'img/tornhub-cover.jpg',
   logo: 'img/tornhub.png',
   lang: 'en',
   siteUrl: 'https://torn.oran.pw/',
