@@ -45,7 +45,7 @@ Here's a Free Spy [Report](https://www.torn.com/forums.php#/p=threads&f=16&t=161
 
 TIL Wall_St got their [Oblideration Honor Bar](https://www.torn.com/forums.php#/p=threads&f=16&t=16181735&b=0&a=0) Without duals(they used a Mag 7) Madlad Proxi quickly posted about theirs which they got using a F(tornfriendlycontent)King [Nail Bomb](https://www.torn.com/forums.php#/p=threads&f=16&t=16181735&b=0&a=0&to=20704674)!! .  
 
-CLoVeR Got their 10K Drug Crimes[Merit.](https://www.torn.com/forums.php#/p=threads&f=16&t=16181756&b=0&a=0)  
+CLoVeR Got their 10K Drug Crimes [Merit.](https://www.torn.com/forums.php#/p=threads&f=16&t=16181756&b=0&a=0)  
 
 Robberhood made a thread about [Money Deposit into faction from hospital](https://www.torn.com/forums.php#/p=threads&f=3&t=16181664&b=0&a=0) at day 10  
 
