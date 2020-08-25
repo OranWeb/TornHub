@@ -29,21 +29,21 @@ Hammi made a Thread [Here](https://www.torn.com/forums.php#/p=threads&f=2&t=1618
 
 This is from 10 days ago but a good read nonetheless, Hemi made a thread about Duke [Losing to Bacon](https://www.torn.com/forums.php#/p=threads&f=2&t=16179974&b=0&a=0).  
 
-Wall_St will test some weapons for you [here](https://www.torn.com/forums.php?p=threads&f=2&t=16181742&b=0&a=0)
+Wall_St will test some weapons for you [here](https://www.torn.com/forums.php?p=threads&f=2&t=16181742&b=0&a=0)   
 
 Andyman's 'wife' Wins the Lotto, everyone was sceptical at first but andy [Showed up with some proof](https://www.torn.com/forums.php#/p=threads&f=2&t=16181631&b=0&a=0)  and quickly shut down all theories of his ~~multi~~ 'wife' being a multi   
 
 MichaelMyers was wondering where all the [tailor's dummy's were hiding](https://www.torn.com/forums.php#/p=threads&f=3&t=16181729&b=0&a=0)   
 
-TIMinion was wondering [What qualifies as an impressive display case](https://www.torn.com/forums.php#/p=threads&f=3&t=16181740&b=0&a=0) He claims to have 36 books and hasn't received the collector's honor bar. Helpful reply from [Kels as always](https://www.torn.com/forums.php#/p=threads&f=3&t=16181740&b=0&a=0&to=20704799)  
+TIMinion was wondering [What qualifies as an impressive display case](https://www.torn.com/forums.php#/p=threads&f=3&t=16181740&b=0&a=0) He claims to have 36 books and hasn't received the collector's honor bar. Helpful reply from [Kels as always](https://www.torn.com/forums.php#/p=threads&f=3&t=16181740&b=0&a=0&to=20704799)   
 
 Xbluejob got taken down by members of [Jack Black's Faction](https://www.torn.com/forums.php#/p=threads&f=3&t=16181770&b=0&a=0) little did he know he just failed an OC.    
 
-Wolf Pack's TranQuilizer Wrote a small guide on [Rehab Decay and Addiction](https://www.torn.com/forums.php#/p=threads&f=61&t=16181560&b=0&a=0)   
+Wolf Pack's TranQuilizer Wrote a small guide on [Rehab Decay and Addiction](https://www.torn.com/forums.php#/p=threads&f=61&t=16181560&b=0&a=0)    
 
 Here's a Free Spy [Report](https://www.torn.com/forums.php#/p=threads&f=16&t=16181772&b=0&a=0&start=0) from Site, Who just hit 3B stats. update yer spybases!     
 
-TIL Wall_St got their [Oblideration Honor Bar](https://www.torn.com/forums.php#/p=threads&f=16&t=16181735&b=0&a=0) Without duals(they used a Mag 7) Madlad Proxi quickly posted about theirs which they got using a F(tornfriendlycontent)King [Nail Bomb](https://www.torn.com/forums.php#/p=threads&f=16&t=16181735&b=0&a=0&to=20704674)!! .  
+TIL Wall_St got their [Oblideration Honor Bar](https://www.torn.com/forums.php#/p=threads&f=16&t=16181735&b=0&a=0) Without duals(they used a Mag 7) Madlad Proxi quickly posted about theirs which they got using a F(tornfriendlycontent)King [Nail Bomb](https://www.torn.com/forums.php#/p=threads&f=16&t=16181735&b=0&a=0&to=20704674)!! .   
 
 CLoVeR Got their 10K Drug Crimes [Merit.](https://www.torn.com/forums.php#/p=threads&f=16&t=16181756&b=0&a=0)  
 
