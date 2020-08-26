@@ -8,6 +8,7 @@ date: '2020-08-23T23:46:37.121Z'
 draft: false
 excerpt: Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine.
 ---
+__(an eror was made in the article the details can be found at the end. we regret the error)__
 
 Yakuza, a faction that was once feared by everyone, No one wanted any trouble with and paid huge sums in Extortion fees is today filled with friendly, loyal, active members, To see how it changed and know its history and how it went together with Torn, I decided to sit down with The infamous  **[Lord3Infamous6](https://www.torn.com/profiles.php?XID=215545#/)**  who has now returned after severe inactivity and The Legendary  [**Dash**](https://www.torn.com/profiles.php?XID=3901#/)  to know about the Yakuza Family's genesis story and the effect it had on Torn.  
 
@@ -79,7 +80,7 @@ So I asked them how would they take up initiative if such a mechanism was introd
 
 _“we fought in almost every major war early on, defeated BH, ran the first 24 hour chain in torn history, we also ran the first 2000 hit chain when everyone had 150 e and hits required 50 e, we fought the best and stood our ground, ranked top 3 in hall of fame for a pretty long time, and since you mentioned team work: I know everyone probably says this about their faction and that's fine, but I want to point out that none of this would have ever been possible without the excellent team work everyone would put in. Our people were dedicated and loyal._
 
-_"If we had to chain at 3 AM on a Wednesday people would pop in ready for war. We also took out all the lithuanian factions, we defeated the malaysian factions (one of the toughest wars we ever fought), took out BH when they were still a name in the game, etc. Also we fought in the original HT wars on both sides, lol. We supported HT in the second war vs BH and friends which was fun to say the least. In pre-faction times we sided with SS in the SS vs SUN wars, but nobody really remembers that. That was the first major war in the game by the way.Also we were the first faction to ever do a 10k chain.”_  
+_"If we had to chain at 3 AM on a Wednesday people would pop in ready for war. We also took out all the lithuanian factions, we defeated the malaysian factions (one of the toughest wars we ever fought), took out BH when they were still a name in the game, etc. Also we fought in the original HT wars on both sides, lol. We supported HT in the second war vs BH and friends which was fun to say the least. In pre-faction times we sided with SS in the SS vs SUN wars, but nobody really remembers that. That was the first major war in the game by the way.”_  
 
 what aside from attacking were effective methods to cripple enemies back in the day? How did things work, Where could people escape to?  
 Lord3infamous6 says hes glad the city is now safe for kids and all but it wasn’t always this way, First Airlines didn’t event exist, Dash Continues to add their strategy:-  
@@ -113,11 +114,9 @@ __(Pictured: lots of mailsalt.)__
 
 #### What did the faction always looked/looks forward for and how does it help be it in the early days or now ? Lord3Infamous6 Says  
 
-_“Before dirty bombs, before companies, before trillions of stats... our vision wasn’t future proof. We wanted war and money. We dedicated ourselves to a different era”_
+_“Before dirty bombs, before companies, before trillions of stats... our vision wasn’t future proof. We wanted war and money. We dedicated ourselves to a different era”_   
 
-Dash Adds  
-
-_“you have to understand that Lord(Lord3Infamous6) and I shared the same vision, which really helped us advance quickly in our efforts. While other factions modelled themselves after sports teams or military units, we kinda modelled our thing as more of an organized crime approach, as funny as that may sound today. We were interested in bringing some real life crime tactics into torn to gain money and notoriety. We succeeded in both aspects.”_  
+Dash Adds _“you have to understand that Lord(Lord3Infamous6) and I shared the same vision, which really helped us advance quickly in our efforts. While other factions modelled themselves after sports teams or military units, we kinda modelled our thing as more of an organized crime approach, as funny as that may sound today. We were interested in bringing some real life crime tactics into torn to gain money and notoriety. We succeeded in both aspects.”_  
 
 ##### What were Yakuza’s Vulnerabilities/Weaknesses?
 Well Dash thinks this is a hard Question to Answer over the Faction’s almost 15 years of existence. He also thinks the earlier iterations were more vulnerable than the later well planned/managed ones, he thinks the Yakuza's utmost weakness would be facing a faction with similar strategy.  
@@ -150,4 +149,6 @@ _"I encourage our members to do elimination. Its a fun time, you get to meet oth
 
 _Thanks to  [Lord3infamous6](https://www.torn.com/profiles.php?XID=215545#/), [Dash](https://www.torn.com/profiles.php?XID=3901) and [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440)  for sitting down with me for the interview.  
 If you know a faction you'd like to see in the faction Focus please drop a mail to  [ORAN](https://www.torn.com/profiles.php?XID=1778676#/). you will be shortly contacted for an interview._ or Join Our [Discord](https://discord.gg/yvNCTXB) and post in an appropriate section.
-Learn More about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/)
+Learn More about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/) You can **actually** keep track of our article releases via Discord #Article-release in your own server by following the channel there.  
+
+edit: an earlier version of the Article mentioned "Yakuza was the first to do a 10K chain", the information was not verifiable and was likely false, it has since been removed. we regret the error.  
