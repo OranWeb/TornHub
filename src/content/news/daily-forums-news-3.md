@@ -12,7 +12,7 @@ excerpt: christmas town 2.0
 ##### _[go here](../../tags/daily-forums-news/) to read all forums news_  
 
 
-Daily Forums News is a Segment where we cover things that happen in Torn forums and sometimes elsewhere. FAQs and addition information on how you can receive this daily on your own discord server can be found at the bottom of this page
+###### Daily Forums News is a Segment where we cover things that happen in Torn forums and sometimes elsewhere. FAQs and addition information on how you can receive this daily on your own discord server can be found at the bottom of this page
 
 
 Twills woke up from his deep sleep and created a discussion Thread [Here](https://www.torn.com/forums.php#/p=threads&f=2&t=16181956&b=0&a=0) about having the ability to Play Poker while flying. OP also calls us "torners" which makes me cringe hard then Apeks & 878Battlecat shows up and claims [Ched Doesn't give a shit](https://www.torn.com/forums.php#/p=threads&f=2&t=16181956&b=0&a=0&to=20708523) you can find bogie's reply below  
@@ -26,7 +26,7 @@ Tempest's Public confession about them [being a Masochist](https://www.torn.com/
 
 Bill Gates' Distant Brother BillDoors Crashed their car [4 seconds in the race](https://www.torn.com/forums.php#/p=threads&f=16&t=16181878&b=0&a=0). Zortok suggests he should go driving together with Ballsac's better looking Brother HerpSac Who crashed their [car 3 seconds in](https://www.torn.com/forums.php#/p=threads&f=16&t=16172966&b=0&a=0&start=0&to=20551108)   
 
-fallenheroa7x from the Weird Name Barracks Faction was wondering how to change their rank [from a punchbag](https://www.torn.com/forums.php#/p=threads&f=3&t=16181845&b=0&a=0) there's quite a few helpful replies in the thread   
+fallenheroa7x from that Weird Name Barracks Faction was wondering how to change their rank [from a punchbag](https://www.torn.com/forums.php#/p=threads&f=3&t=16181845&b=0&a=0) there's quite a few helpful replies in the thread   
 
 Another one of ["is torn a F2P"](https://www.torn.com/forums.php#/p=threads&f=3&t=16181834&b=0&a=0)  Thread This one does have some good replies  
 
