@@ -6,7 +6,7 @@ tags: ['Daily Forums News']
 image: ../img/thumb/daily-forums-news.jpg
 date: '2020-08-26T12:46:37.121Z'
 draft: false
-excerpt: hello boomer
+excerpt: christmas town 2.0
 ---
 
 ##### _[go here](../../tags/daily-forums-news/) to read all forums news_  
