@@ -11,9 +11,7 @@ import { colors } from '../styles/colors';
 interface IndexProps {
   className?: string;
 }
-/// experiment start
 
-/// experiment end
 const IndexLayout: React.FC<IndexProps> = props => {
   return (
     <div className={props.className}>
