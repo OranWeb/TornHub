@@ -10,3 +10,6 @@
 - id: Daily Forums News
   description: A Segment that covers whats happening in the forums
   image: img//temp/daily-forums-news.jpg
+- id: What is Happening
+  description: A Segment Where we try our best to explain the abnormalities.
+  image: img//temp/what-is-happening-temp.jpg
