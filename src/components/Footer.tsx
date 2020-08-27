@@ -35,10 +35,7 @@ export const Footer: React.FC = () => {
             About
             </a>
             <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f4102e8d08c3a7f"></script>
-            <a class="top-link hide" href="" id="js-top">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><path d="M12 6H0l6-6z"/></svg>
-    <span class="screen-reader-text">Back to top</span>
-  </a>
+
         </SiteFooterNav>
       </div>
     </footer>
