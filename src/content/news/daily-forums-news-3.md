@@ -37,7 +37,7 @@ Qez made a thread about [Top10 Faction Members Jobs](https://www.torn.com/forums
 
 WhiteHare created a Guide on  [How to turn on Profile and Forum Signatures](https://www.torn.com/forums.php?p=threads&f=61&t=16181903&b=0&a=0)    
 
-Cursed_Phoenix created a Thread about [Why he was kicked from Rawr](https://www.torn.com/forums.php#/p=threads&f=3&t=16181770&b=0&a=0) at 950 days, i had a quick read but i couldn't find anything about the kick part but well the thread turned into a recruitment offer's thread to the highest bidder  
+Cursed_Phoenix created a Thread about [Why he was kicked from Rawr](https://www.torn.com/forums.php#/p=threads&f=9&t=16181870) at 950 days, i had a quick read but i couldn't find anything about the kick part but well the thread turned into a recruitment offer's thread to the highest bidder  
 
 Surgical Precision is up for sale [For the 2nd Time](https://www.torn.com/forums.php#/p=threads&f=9&t=16181978&b=0&a=0) it does however have close to 800k respect and good members.  
 
