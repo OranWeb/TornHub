@@ -1,14 +1,13 @@
 ---
 layout: post
 title: 'Hemeow and Burger's School for Kittens'
-author: [ORAN]
+author: [ORAN]  
 tags: ['Experiments']
 image: img/thumb/hemeow-burger-school.jpg
-date: '2020-09-9T12:46:37.121Z'
+date: '2020-09-1T12:46:37.121Z'
 draft: false
-excerpt: Hemeow and Burger started a school for kittens.  
+excerpt: Hemi and Burger tell me all about their School for kittens
 ---
-
 This was 5 Months ago but an interesting experiment regardless. its not everyday that you find some people willing to do amazing things, but that is exactly what [Hemi](https://www.torn.com/profiles.php?XID=2165616) and Burger (aka [Scarlett-X](https://www.torn.com/profiles.php?XID=2095421#/)) did 5 months ago  
 
 _"Burger-Hemeow School for Kittens Who Want to Get Stronk But Don't Have the Proper Resources and Require Assistance."_   
