@@ -4,7 +4,7 @@ title: 'Hemeow and Burger School for Kittens'
 author: [ORAN]
 tags: ['Experiments']
 image: img/thumb/hemeow-burger-school.jpg
-date: '2020-09-1T12:46:37.121Z'
+date: '2020-09-01T2:46:37.121Z'
 draft: false
 excerpt: Hemi and Burger tell me all about their School for kittens
 ---
