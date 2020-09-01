@@ -8,7 +8,7 @@ date: '2020-09-01T10:46:37.121Z'
 draft: false
 excerpt: Hemi and Burger tells me all about their School for kittens
 ---
-This happened 5 months ago but an interesting experiment regardless. it's not every day that you find people willing to do amazing things in the game, but that is exactly what [Hemi](https://www.torn.com/profiles.php?XID=2165616) and Burger (aka [Scarlett-X](https://www.torn.com/profiles.php?XID=2095421#/) seemed to have done    
+This happened 5 months ago but an interesting experiment regardless. it's not every day that you find people willing to do amazing things in the game, but that is exactly what [Hemi](https://www.torn.com/profiles.php?XID=2165616) and Burger (aka [Scarlett-X](https://www.torn.com/profiles.php?XID=2095421#/) ) seemed to have done    
 
 _"Burger-Hemeow School for Kittens Who Want to Get Stronk But Don't Have the Proper Resources and Require Assistance."_   
 
