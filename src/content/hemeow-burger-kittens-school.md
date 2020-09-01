@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Hemeow and Burger's School for Kittens'
-author: [ORAN]  
+title: 'Hemeow and Burger School for Kittens'
+author: [ORAN]
 tags: ['Experiments']
 image: img/thumb/hemeow-burger-school.jpg
 date: '2020-09-1T12:46:37.121Z'
