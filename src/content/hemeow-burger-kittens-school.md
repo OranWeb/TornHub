@@ -53,4 +53,4 @@ We'll have to do the vetting round differently next time. Like older age noobs s
 _Thanks to  [Hemi](https://www.torn.com/profiles.php?XID=2165616/) and [Burger](https://www.torn.com/profiles.php?XID=2095421) for sitting down with me for the interview.  
 If you'd like to Read more Articles go to [Home](https://torn.oran.pw).  
 If you have an Article Idea in mind, Join [TornHub Discord](https://discord.gg/yvNCTXB) and post in #Article-Suggestion  
-Learn More about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/) You can **actually** keep track of our article releases via Discord #Article-release in your own server by following the channel there.   
+Learn More about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/) You can **actually** keep track of our article releases via Discord in your own server [by following Article-Releases channel there](https://discord.gg/yvNCTXB).   
