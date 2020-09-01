@@ -13,3 +13,6 @@
 - id: What is Happening
   description: A Segment Where we try our best to explain the abnormalities.
   image: img//temp/what-is-happening-temp.jpg
+- id: Experiments
+  description: All about experiments conducted in torn :)
+  image: img//temp/experiments.jpg
