@@ -10,7 +10,7 @@ excerpt: Hemi and Burger tells me all about their School for kittens
 ---
 This happened about five months ago but it was an interesting enough experiment to merit an article. It's not every day that you find people doing wonderful things in the game, but that is exactly what [Hemi](https://www.torn.com/profiles.php?XID=2165616) and Burger (aka [Scarlett-X](https://www.torn.com/profiles.php?XID=2095421#/)) were doing!    
 
-_"Burger-Hemeow School for Kittens Who Want to Get Stronk but Don't Have the Proper Resources and Require Assistance (B.H.K.W.W.G.S.D.H.P.R.R.A, yes, the abbreviation does suck.)"_   
+_"Burger-Hemeow School for Kittens Who Want to Get Stronk but Don't Have the Proper Resources and Require Assistance (B.H.S.K.W.W.G.S.D.H.P.R.R.A, yes, the abbreviation does suck.)"_   
 
 ![kittycat](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMPXVJ9unnaFa6j6YOeP03JWieOsLi2-eBHQ&usqp=CAU)
 
@@ -22,7 +22,7 @@ _We picked four. One turned out to be a multi, another ran off with all the free
 
 Hemi and Burger spent a month teaching their 'kittens' to play TORN, giving them daily as well as weekly lessons on different TORN topics alongside some homework. Kittens also had to do assignments and present it, so Hemi and Burger could see if they were actually learning.   
 
-Initially, there were 18, of which only 4 made it. Turns out players that were highly active, eager to learn with a genuine interest in the game, respectful towards others, would stick around for 30 days and more importantly, had good sense of humor weren't easy to find! Who would have thought?  
+Initially, there were 18, of which only 4 made it. Turns out players that were highly active, eager to learn with a genuine interest in the game, respectful towards others, would stick around for 30 days and more importantly, had good sense of humour weren't easy to find! Who would have thought?  
 
 Most of the questions Hemi and Burger asked were trick questions.
 
@@ -47,9 +47,9 @@ However, even despite the bad experiences, they said the school might just retur
 We both were bored and had money burning in our pockets. We like to help noobs casually but wanted to make an official thing and set them up for success in the long term.  
 We'll have to do the vetting round differently next time. Like older age noobs should be considered, whereas before we were only looking at young accounts. However, you always run the risk of helping a multi or someone who won't stick around very long.  
 
-#### Thanks to  [Hemi](https://www.torn.com/profiles.php?XID=2165616/) and [Burger](https://www.torn.com/profiles.php?XID=2095421) for the interview and [Confused_Edd](https://www.torn.com/profiles.php?XID=2069481) for Editing. 
+#### Thanks to  [Hemi](https://www.torn.com/profiles.php?XID=2165616) and [Burger](https://www.torn.com/profiles.php?XID=2095421) for the interview, and [Confused_Edd](https://www.torn.com/profiles.php?XID=2069481) for editing.  
 #### If you'd like to read more articles, go [here](https://torn.oran.pw).  
 #### If you have an idea for an article in mind, join [TornHub Discord](https://discord.gg/yvNCTXB) and post in #article-suggestion channel or PM [ORAN](https://www.torn.com/profiles.php?XID=1778676) in-game.
-#### Learn more about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/). Also, now you can **actually** keep track of our article releases via Discord in your own server [by following #article-release channel there](https://discord.gg/yvNCTXB). If you need help with doing that, please post on the #general channel and someone will help you out. See you at our next article!     
+#### Learn more about TornHub [here](https://torn.oran.pw/welcome-to-tornhub/). Also, now you can **actually** keep track of our article releases via Discord in your own server [by following #article-release channel there](https://discord.gg/yvNCTXB). If you need help with doing that, please post on the #general channel and someone will help you out. See you at our next article!     
 
 [Disclaimer: Quotes have been edited for accuracy and grammar purposes.]
