@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daily Forums News 31/8/20'
+title: 'Daily Forums News 2/9/20'
 author: [ORAN]
 tags: ['Daily Forums News']
 image: ../img/thumb/daily-forums-news.jpg
