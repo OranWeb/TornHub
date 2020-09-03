@@ -112,7 +112,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   <Link to="/tags/daily-forums-news/"> Forums News</Link>
                 </li>
                 <li role="Experiments">
-                  <Link to="/tags/experiments/"> Forums News</Link>
+                  <Link to="/tags/experiments/">Experiments</Link>
                 </li>
               </ul>
               {isPost && (

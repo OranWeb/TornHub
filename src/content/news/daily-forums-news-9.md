@@ -37,7 +37,7 @@ ScottishHare was wondering why people were [mugging him after rr](https://www.to
 
 another Laptop/PC [thread](https://www.torn.com/forums.php#/p=threads&f=2&t=16183340&b=0&a=0)  
 
-Wollongong created a Elimination spying script [discussion thread](https://www.torn.com/forums.php#/p=threads&f=2&t=16183322&b=0&a=0&start=0&to=20732017)  
+Wollongong created a Elimination spying script [discussion thread](https://www.torn.com/forums.php#/p=threads&f=2&t=16183322)  
 
 if you're a f[tornfriendlycontent]king geek checkout [Vladar's Training Formula 2.0](https://www.torn.com/forums.php#/p=threads&f=61&t=16182535&b=0&a=0)   
 
