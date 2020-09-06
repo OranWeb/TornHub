@@ -54,7 +54,7 @@ The Non-Fairytale forum called "VIP Corner" which only the top karma farmers hav
 
 Zithro Created a Thread about Why you must [never trust RYANCAR](https://www.torn.com/forums.php#/p=threads&f=2&t=16183623&b=0&a=0)  
 
-Baronv0ndude speaks out about his [changes and regrets](Baronv0ndude)  
+Baronv0ndude speaks out about his [changes and regrets](https://www.torn.com/forums.php#/p=threads&f=2&t=16183743&b=0&a=0)   
 
 Hopslam created a Poll about your favorite [Karma Farmer](https://www.torn.com/forums.php#/p=threads&f=2&t=16183862&b=0&a=0)  
 
