@@ -21,6 +21,11 @@ TornHub was briefly failing to deploy I have now found an alternative way to dep
 ##### Yes They Actually [Did it!](https://www.torn.com/forums.php#/p=threads&f=9&t=16184176)
 ![](https://i.oran.pw/images/hoVus.jpg)  
 
+I Reached out to Their Supreme Commander USinfidel for comment on the name change,
+>I would say... given that is wasn’t used in a disparaging way, how it has become so widely used, and even we use it jokingly... with Elim and the number of our members participating. Why not have a little fun with it.  
+As a former Marine, Teufel Hunden has a special meaning to me and we will change back, but for now, we are going to have a good laugh and some fun.  
+
+Champion gets the Credits for the name change, no he doesn't have a gun held to my head, no mug isn't trying to mug me. I Swear  
 
 Elimination Team Choosing started yesterday, there's 10 Teams each team has 100 lives and push happens every 15 minutes  
 ![](https://i.gyazo.com/d613a06b8bb22626bc42e5a0126840df.png  
