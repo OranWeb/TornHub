@@ -18,7 +18,7 @@ excerpt: Dude Apology ID II 10K MANIC DOMINATION NUKE REVIVED
 --  
 ID II had their [First 10k Chain Done](https://www.torn.com/forums.php#/p=threads&f=16&t=16184426&b=0&a=0)    
 
-![](http://i.oran.pw/images/cdKbw.png)  
+![](https://i.oran.pw/images/cdKbw.png)  
 
 
 Celebrity Idiot Dude Dude, who not even pandemic would accept has decided to [publicly Apologize](https://www.torn.com/forums.php?p=threads&f=2&t=16184357&b=0&a=0) for his behavior.  
