@@ -32,7 +32,7 @@ Together we are stronger. Let's go.
 
 Is he Terrified by his team? we may find out soon.   
 
-Manic wants you to wear the Domination Honor Bar  
+Manic wants you to wear the [Domination Honor Bar](https://www.torn.com/forums.php#/p=threads&f=2&t=16184295&b=0&a=0)    
 
 ![](https://i.gyazo.com/1e5fad8d0bd6619f86c3ef4bca378ee7.png)   
 
