@@ -6,7 +6,7 @@ tags: ['Daily Forums News']
 image: ../img/thumb/daily-forums-news.jpg
 date: '2020-09-07T10:46:37.121Z'
 draft: false
-excerpt: Dude Apologizes ID II 10K MANIC DOMINATION
+excerpt: Dude Apology ID II 10K MANIC DOMINATION NUKE REVIVED
 ---
 
 ##### _[go here](../../tags/daily-forums-news/) to read all forums news_   
@@ -60,6 +60,9 @@ And eradicate Pandemic
 Nobody: [WhErE iS dArK ThEmE](https://www.torn.com/forums.php#/p=threads&f=2&t=16184315&b=0&a=0)  
 
 Sectory is [1k days old](https://www.torn.com/forums.php#/p=threads&f=16&t=16184306&b=0&a=0)  
+
+Nuke's REVIVE ME script was removed because Cookie data was sent to their PHP server, the script has now been edited and confirmed safe to use  
+>Script has been reviewed by admins and the scripting moderation team and is now compliant, we are satisfied it is presently safe in it's updated form. -ResidentBogie  
 
 
 **Forums Quality; More Elim Drama Needed**  
