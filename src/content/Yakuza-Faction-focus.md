@@ -149,6 +149,7 @@ _"I encourage our members to do elimination. Its a fun time, you get to meet oth
 
 _Thanks to  [Lord3infamous6](https://www.torn.com/profiles.php?XID=215545#/), [Dash](https://www.torn.com/profiles.php?XID=3901) and [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440)  for sitting down with me for the interview.  
 If you know a faction you'd like to see in the faction Focus please drop a mail to  [ORAN](https://www.torn.com/profiles.php?XID=1778676#/). you will be shortly contacted for an interview._ or Join Our [Discord](https://discord.gg/yvNCTXB) and post in an appropriate section.
-Learn More about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/) You can **actually** keep track of our article releases via Discord #Article-release in your own server by following the channel there.  
+Learn More about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/)  .  
+## Now You can **actually** keep track of our article releases via [Discord #Article-release](https://discord.gg/yvNCTXB) in your own server by following the channel there.
 
 edit: an earlier version of the Article mentioned "Yakuza was the first to do a 10K chain", the information was not verifiable and was likely false, it has since been removed. we regret the error.  
