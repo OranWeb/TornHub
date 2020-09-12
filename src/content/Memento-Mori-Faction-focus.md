@@ -30,21 +30,21 @@ Tascon realized at this Point that faction members liked the way he managed the 
 ![](https://i.gyazo.com/e4084dc4cde3177f14e63ae49b73ba8e.png)  
 _(Faction id 8706 Timeline)_
 
-Memento Also had a Merger a long time ago with Forged Through War and formed "Forged Memento" I was in MM when the merger happened. before moving to FTW _having no idea what happen_ either way this failed merger set precedent that Not all mergers are successful   
+Memento Also had a Merger a long time ago with Forged Through War and formed "Forged Memento" I was in MM when the merger happened  before moving to FTW _having no idea what happen_ either way this failed Merger set Precedent that Not all Mergers are successful   
 
 >The merge with FTW was made by me as the last chance to have the faction live longer
 I have personally been running a faction for many years, I have had good co-leaders to help me with the job. But the leader always has work to do. I realized at some point that the time I spend in the game was affecting my Real Life and simply booked too much of my time. So I wanted to try and have a larger leader squad to split the work  
 
-However, for Tascon Things don't go very Well,
+However, for Tascon Things don't go very well,
 
 >I ended up running FTW and MM mostly alone for a short period. Until I had to back out and reversed the merger. Better run 1 faction good than 2 factions average.  
 So I was back to square 1 and really wanted to unload the workload.  
  Didn't want to abandon all the good members and what we had built. But at the time we had no one step up and taking the torch to move on.   
  So when I got a good offer on the faction I took it and send much of it back to the core of the faction. And now I live my torn life as a normal citizen with no hassle and can play whenever I feel like it and have the time for it
 
-The Faction was eventually sold to Saltama/Egypt a well-known faction flipper for a sum close to 87,000,000,000
+The Faction was eventually sold to Saltama/Egypt a well-known faction flipper for a sum close to $87,000,000,000
 
->I was offered a huge amount of 87b I think was the number
+>I was offered a huge amount of $87b I think was the number
 It was his/her full net worth and I was told he/she wanted a faction with good perks to just sit and train and grow old. A final spot and an achievement which was on her list which had to be done as a final thing
 It was all her account had of assets.  
 Meaning mostly stocks
