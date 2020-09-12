@@ -12,13 +12,14 @@ excerpt: Memento Mori - an upcoming faction, What went wrong?
 
 ![](https://cdn.discordapp.com/attachments/748273798721044523/748622494625169428/unknown.png)  
 
-###### Memento Mori used to be a Good faction back in the day, it was also called as a faction 'to keep an eye on' in the [newspaper article 5 years ago](https://www.torn.com/newspaper.php#!/articles/185), to see what exactly happen and how the faction disappeared I sat down with Tascon (leader), sparkyMarky, Donandres, and OC Manager M3G47HR0N    
+#### Memento Mori used to be a Good faction back in the day, it was also called as a faction 'to keep an eye on' in the [newspaper article 5 years ago](https://www.torn.com/newspaper.php#!/articles/185), to see what exactly happen and how the faction disappeared I sat down with [Tascon](https://www.torn.com/profiles.php?XID=209070) (leader), [sparkyMarky](https://www.torn.com/profiles.php?XID=1392638), [Donandres](https://www.torn.com/profiles.php?XID=1512694), and OC Manager [M3G47HR0N](https://www.torn.com/profiles.php?XID=343124)        
 
-The original faction id 8706 hasn't disappeared per say, its still alive in existence and kicking as unleashed, However, the Faction timeline is pretty fascinating (you can check out the fancy timeline graphics if you continue reading)  
 
->The faction Memento Mori was originally named "The Little House on the Prairie" and founded with my 2 good friends back then - Whiterose (may she rest in peace) and UnFairlane (A good danish friend of mine with similar interest in online games)
+The original [faction id 8706](https://www.torn.com/factions.php?step=profile&ID=8706) hasn't disappeared per say, its still alive in existence and kicking as [Unleashed](https://www.torn.com/factions.php?step=profile&ID=8706), However, the Faction timeline is pretty fascinating (you can check out the fancy timeline graphics if you continue reading)  
+
+>The faction Memento Mori was originally named "The Little House on the Prairie" and founded with my 2 good friends back then - [Whiterose](https://www.torn.com/profiles.php?XID=365252) (may she rest in peace) and [UnFairlane](https://www.torn.com/profiles.php?XID=450963) (A good danish friend of mine with similar interest in online games)
 We wanted to have a retreatment place for us to sit and grow old, no pressure, no wars or issues - just laid back training for years to come...  
-Whiterose had an illness in RL and knew her time was short, so that was her reason for getting a safe place to stay.  
+[Whiterose](https://www.torn.com/profiles.php?XID=365252) had an illness in RL and knew her time was short, so that was her reason for getting a safe place to stay.  
 I was a bit more active and social and gained many relationships along the way. I have always wanted to help new people to the game - and help them grow. The big factions controlled the game, and it was hard for anyone to get into a good faction without any help to progress.
 
 Tascon realized at this Point that faction members liked the way he managed the faction and he Personally wanted to have more action hence he had members and leaders Create Memento Mori.
@@ -49,7 +50,11 @@ It was all her account had of assets.
 Meaning mostly stocks
 whose value dropped sometime after the trade but I was lucky to keep them for a bit and sold at an ok price, so the deal was ok for me. I was dealing stocks anyway and would have invested the cash in stocks if I was offered that in the trade. So I'm not complaining.  
 
-While working on the article VitaGreta mentioned something about the company tascon is holding being a reminiscence of the Faction,
+![](https://i.ytimg.com/vi/if-2M3K1tqk/hqdefault.jpg)
+
+While working on the article VitaGreta mentioned something about the company tascon is holding being a reminiscence of the Faction,  
+
+![](http://i.oran.pw/images/Y4UbR.jpg)
 
 >I founded the company with MM funding, that being said - it was a way for members to get a huge interest on their torn savings, I gave all members an option to buy-in in my investment plan
 Each share was sold for 1b, with an interest payout 6% each month.
@@ -70,6 +75,8 @@ Donandres08 Another MM Members jumps in and shares his personal experience being
 >We are All Danes and had a small faction called the Royal Danish Army. We were all new players, so we didn’t really have anything.  
  Tascon reached out to me and the other leader Ceberix and we talked back and forth. Until one point where we decided to join MM and that was the best-torn move I made.  
 MM was by any means not a faction who had many trolls or a super active chat. But, as Tascon also mentioned, we did this thing where we made chaining teams - one for each day, and some people signed up to be team leaders to make sure their team was full. Chaining was so much different back then and that was the way we made much of our respect.  
+
+![](http://i.imgur.com/gfuGkGq.jpg)
 
 Donandres08 tells us a little about the wars they fought,
 > we had some great wars with JFA and some other factions in similar size. What we lacked though, were their strong guests - which often decided the close wars. Tascon had a few really big hitters, but it wasn’t enough regardless we always fought hard and if you look at NS and some other factions, many old MM members are now in the upper tier in regards to stats but also chaining.  
@@ -132,12 +139,15 @@ Basically, I knew the NNBs for all members. I record them both in forums and in 
 Because of that, I basically had the list of all members that ever been in MM while I was OC manager.
 So over the years, I saw people came and went, and some names I still recognize until today that they used to be in MM. Including ORAN himself!  
 
-##### Where are the Original MM Members now?
+##### Where are the Original MM Members now?  
+
+![](https://i.imgur.com/1qbyljj.gif)
+(tascon proudly sporting his CR Badge)
 
 >Most of us are in NS now (Sparky, Don, Flander, Ceberix, CloudJumper, Rhino, etc), and some are in other factions (Tascon, Crayfish, Suneo, Tonia, Bovy, Slothex, KmKid, herself, etc).
 Even though some of them are in 'enemy' factions, we still consider each other friends apparently.
 I do chat with some of them from time to time.
-MM really was our home back then, with its friendly atmosphere. And most of us MM cores helped build the faction together, from the ground up, as an underdog and barely known back then, and made it quite formidable over the years, and later recognized even by some HoF factions.
+MM really was our home back then, with its friendly atmosphere. And most of us MM cores helped build the faction together, from the ground up, as an underdog and barely known back then, and made it quite formidable over the years, and later recognized even by some HoF factions.  
 It was really shocking and sad to see it was sold but it was already done so it was best to just start moving on back then.
 Besides, MM had a very good run and it was quite fun while it lasted.  
 On top of that, it was quite liberating to be finally no longer an OC manager, as it was quite hard for me to maintain when RL became really busy with work.  
