@@ -54,7 +54,7 @@ whose value dropped sometime after the trade but I was lucky to keep them for a 
 
 While working on the article VitaGreta mentioned something about the company tascon is holding being a reminiscence of the Faction,  
 
-![](http://i.oran.pw/images/Y4UbR.jpg)
+![](https://i.oran.pw/images/Y4UbR.jpg)
 
 >I founded the company with MM funding, that being said - it was a way for members to get a huge interest on their torn savings, I gave all members an option to buy-in in my investment plan
 Each share was sold for 1b, with an interest payout 6% each month.
@@ -76,7 +76,7 @@ Donandres08 Another MM Members jumps in and shares his personal experience being
  Tascon reached out to me and the other leader Ceberix and we talked back and forth. Until one point where we decided to join MM and that was the best-torn move I made.  
 MM was by any means not a faction who had many trolls or a super active chat. But, as Tascon also mentioned, we did this thing where we made chaining teams - one for each day, and some people signed up to be team leaders to make sure their team was full. Chaining was so much different back then and that was the way we made much of our respect.  
 
-![](http://i.imgur.com/gfuGkGq.jpg)
+![](https://i.imgur.com/gfuGkGq.jpg)
 
 Donandres08 tells us a little about the wars they fought,
 > we had some great wars with JFA and some other factions in similar size. What we lacked though, were their strong guests - which often decided the close wars. Tascon had a few really big hitters, but it wasn’t enough regardless we always fought hard and if you look at NS and some other factions, many old MM members are now in the upper tier in regards to stats but also chaining.  
