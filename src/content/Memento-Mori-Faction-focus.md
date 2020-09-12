@@ -30,7 +30,7 @@ Tascon realized at this Point that faction members liked the way he managed the 
 ![](https://i.gyazo.com/e4084dc4cde3177f14e63ae49b73ba8e.png)  
 _(Faction id 8706 Timeline)_
 
-Memento Also had a Merger a long time ago with Forged Through War and formed "Forged Memento" I was in MM when the merger happened. before moving to FTW _having no idea what happen_ either way this failed merger set precedent that Not all mergers are successful   
+Memento Also had a Merger a long time ago with Forged Through War and formed "Forged Memento" I was in MM when the merger happened  before moving to FTW _having no idea what happen_ either way this failed Merger set Precedent that Not all Mergers are successful   
 
 >The merge with FTW was made by me as the last chance to have the faction live longer
 I have personally been running a faction for many years, I have had good co-leaders to help me with the job. But the leader always has work to do. I realized at some point that the time I spend in the game was affecting my Real Life and simply booked too much of my time. So I wanted to try and have a larger leader squad to split the work  
