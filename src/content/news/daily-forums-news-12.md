@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Daily Forums News 7/9/20'
+title: 'Daily Forums News 13/9/20'
 author: [ORAN]
 tags: ['Daily Forums News']
 image: ../img/thumb/daily-forums-news.jpg
-date: '2020-09-07T10:46:37.121Z'
+date: '2020-09-13T10:46:37.121Z'
 draft: false
-excerpt: Dude Apology ID II 10K MANIC DOMINATION NUKE REVIVED
+excerpt: Peasants Peasnting, bogie 1 hit and Dik being Dik.
 ---
 
 ##### _[go here](../../tags/daily-forums-news/) to read all forums news_   
@@ -36,7 +36,7 @@ garyType1 supreme leader of an inactive crap faction was wondering if its a [mis
 
 Speaking of inactives, butts0 who definitely sounds like an inactive was wondering "[Wtf are inactives doing](https://www.torn.com/forums.php#/p=threads&f=2&t=16185443&b=0&a=0)"  
 
-JS_Rep created a thread about Dikloren Going Rogue in their team, he supplied this screenshot to sum shit up
+JS_Rep created a thread about Dekloren Going Rogue in their team, he supplied this screenshot to sum shit up
 
 ![](https://i.imgur.com/QbORNlS.jpg)
 
