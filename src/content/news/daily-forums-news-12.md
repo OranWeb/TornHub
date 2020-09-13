@@ -6,7 +6,7 @@ tags: ['Daily Forums News']
 image: ../img/thumb/daily-forums-news.jpg
 date: '2020-09-13T10:46:37.121Z'
 draft: false
-excerpt: Peasants Peasnting, bogie 1 hit and Dik being Dik.
+excerpt: Peasants Peasanting, bogie 1 hit and Dik being Dik.
 ---
 
 ##### _[go here](../../tags/daily-forums-news/) to read all forums news_   
