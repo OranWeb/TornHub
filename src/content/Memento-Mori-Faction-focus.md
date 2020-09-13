@@ -53,7 +53,7 @@ The stocks lost a lot of their value sometime after the trade but I was lucky to
 
 While working on the article, VitaGreta mentioned something about the company Tascon is holding being a reminiscent of the faction.  
 
-![](http://i.oran.pw/images/Y4UbR.jpg)
+![](https://i.oran.pw/images/Y4UbR.jpg)
 
 >I founded the company with MM funding, that being said - it was a way for members to get a huge interest on their TORN savings, I gave all members an option to buy-in to my investment plan.
 Each share was sold for 1b, with an interest payout of 6% each month.
