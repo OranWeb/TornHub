@@ -73,7 +73,7 @@ Donandres08, another MM Members jumped in and shared his personal experience bei
  Tascon reached out to me and the other leader, Ceberix, and we talked back and forth. Until at one point we decided to join MM and that was the best-TORN move we've made.  
  MM was not, by any means, a faction that had many trolls or a super active chat but, as Tascon also mentioned, we did this thing where we made chaining teams - one for each day, and some people signed up to be team leaders and make sure their team was full. Chaining was so much different back then and that was the way we made much of our respect.  
 
-![](http://i.imgur.com/gfuGkGq.jpg)
+![](https://i.imgur.com/gfuGkGq.jpg)
 
 Donandres08 tells us a little about the wars they fought.
 > We had some great wars with JFA and some other factions of similar size. What we lacked though, were their strong guests - which often decided the close wars. Tascon had a few really big hitters, but it wasn’t enough. Regardless, we always fought hard and if you look at Natural Selection and some other factions, many old MM members are now in the upper tier in regards to not only stats but also chaining.  
