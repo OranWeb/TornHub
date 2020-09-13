@@ -51,13 +51,7 @@ Brian a Grill Master in SA [just hit 5555 days age](https://www.torn.com/forums.
 cps_c4 found [some blank tokens in the dump](https://www.torn.com/forums.php#/p=threads&f=3&t=16185589&b=0&a=0&start=0&to=0), just sayin please don't scam them.
 
 
-
-
-
-
-
-
-**Forums Quality; More Elim Drama Needed**  
+**Forums Quality; meh**  
 
 **Today's Forum news was Brought to you by The TornHub Project go read more about it [here](https://torn.oran.pw/welcome-to-tornhub/)**   
 
