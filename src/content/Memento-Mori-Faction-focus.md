@@ -42,7 +42,7 @@ Hence, I was back to square one and desperately wished to lighten my work load s
  I didn't want to abandon all our members and what we had built, but at the time we had no one stepping up to take the torch and lead us onwards.   
  So, when a good offer on the faction came along, I took it and sent much of it back to the core of our faction. Now, I live my TORN life as a normal citizen with none of the burdens of leadership and can play whenever I feel like it, or have the time for it.
 
-The faction was eventually sold to Saltama/Egypt a well-known faction flipper for a sum close to $87,000,000,000.
+[Rhino](https://www.torn.com/profiles.php?XID=982382) Reached out to mention JFA (Just Fer Assholes) offered in the ranges of 80B for the faction but it was eventually sold to Saltama/Egypt a well-known faction flipper for a sum close to $87,000,000,000.
 
 >I was offered a generous price - 87B, I think was the number on the table.
 It was the entirety of their networth and I was told they just wanted a faction with good perks to sit in, train and grow old. A final spot and a crowning achievement on their list of things to do.
