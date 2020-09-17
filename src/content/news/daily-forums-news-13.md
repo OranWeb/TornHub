@@ -38,7 +38,7 @@ Vrocks Created a Thread to inform the community about [the "Value" Increase](htt
 We do however have reasons to believe it was done by Armysqueaky [2567758] because they advertised the following in Torn Discod
 >who buys frying pans?
 
-Being 2020 its probably safe to assume frying pans are Probably made out of Cake.  
+Being 2020 its probably safe to assume frying pans are  made out of Cake.  
 
 Celebrity Boomer Wollongong thinks the Economy of [Torn is Weird](https://www.torn.com/forums.php#/p=threads&f=2&t=16186298&b=0&a=0&start=0)  
 
