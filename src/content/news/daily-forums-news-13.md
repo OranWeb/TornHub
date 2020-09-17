@@ -27,7 +27,7 @@ They Also mentioned their Leaders (of Seal Team Six) "Sold out their Team for 50
 >Wait... you talking toothpaste? cuz yes
 Oh, was it at the start   
 
-MightyGoober also had this to add about the Lisa Guerrero
+MightyGoober also had this to add about Lisa Guerrero
 > I have noticed that some players just think "get all the tickets, and you win"  
 Like bro it's not like that lol  
 
@@ -38,7 +38,7 @@ Vrocks Created a Thread to inform the community about [the "Value" Increase](htt
 We do however have reasons to believe it was done by Armysqueaky [2567758] because they advertised the following in Torn Discod
 >who buys frying pans?
 
-Being 2020 its probably safe to assume frying pans are made out of cake.  
+Being 2020 its probably safe to assume frying pans are Probably made out of Cake.  
 
 Celebrity Boomer Wollongong thinks the Economy of [Torn is Weird](https://www.torn.com/forums.php#/p=threads&f=2&t=16186298&b=0&a=0&start=0)  
 
@@ -48,7 +48,7 @@ Bantor created a Thread about Drug crimes showing his stats go check it out [her
 
 AngryLlama who's not just angry but also extremely mad was wondering if [there's any celebrities playing torn.](https://www.torn.com/forums.php#/p=threads&f=2&t=16185838&b=0&a=0) as it turns out GhostfaceKi11ah is secretly The Rock and 6-6-6 was featured in an advert when they were 10.
 
-Goon has 250 bucks and he was wondering [which Mouse to buy](https://www.torn.com/forums.php#/p=threads&f=2&t=16185843&b=0&a=0) Anyone of you use a trackpad or is it [just me](https://www.torn.com/forums.php#/p=threads&f=2&t=16185843&b=0&a=0&start=60&to=20787755)?    
+Goon has 250 bucks and he was wondering [which Mouse to buy](https://www.torn.com/forums.php#/p=threads&f=2&t=16185843&b=0&a=0). Anyone of you use a trackpad or is it [just me](https://www.torn.com/forums.php#/p=threads&f=2&t=16185843&b=0&a=0&start=60&to=20787755)?    
 
 KingLouisCLXXII (CLXII = 172...) created a Thread about his Study on [Employee effectiveness](https://www.torn.com/forums.php#/p=threads&f=2&t=16186054&b=0&a=0)  He also added this smexy Graph
 
