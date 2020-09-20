@@ -80,4 +80,4 @@ A; Yes
 ## and here's the obligatory _[go here](../../tags/daily-forums-news/) to read all forums news_  
 
 
-![](http://i.oran.pw/images/gxDDC.png)
+![](https://i.oran.pw/images/gxDDC.png)
