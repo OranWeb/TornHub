@@ -19,7 +19,7 @@ excerpt: Vikings-scanning-de-navien BankersBanked ST6get6th GraphsgoBrrNapkin
 Elimination is "Almost" coming to an end, in the last 3 days we saw 3 teams go out,
 1. Vikings Proudly Wins the 8th Position and are on [their way to Valhalla](https://www.torn.com/forums.php#/p=threads&f=2&t=16186437&b=0&a=0)
 2. Total Bankers Win the 7th Position, Bankers were perceived as a strong powerful fully stacked team, Doesn't really matter who wins the competition but Bankers have definitely [left their Mark in this competition.](https://www.torn.com/forums.php?p=threads&f=2&t=16186561&b=0&a=0)
-3. Seal Team Six Wins the 6th Position, [Mightygoober gives his rundown](https://www.torn.com/forums.php#/p=threads&f=2&t=16186790&b=0&a=0)
+3. Seal Team Six Wins the 6th Position, right, it was in their name. [Mightygoober gives his rundown](https://www.torn.com/forums.php#/p=threads&f=2&t=16186790&b=0&a=0)
 
 Andyman's Team TerrorBytes which also houses infamous idiot DUDE DUDE has a [Rant thread on the Murder Hornets](https://www.torn.com/forums.php?p=threads&f=2&t=16186840&b=0&a=0)  
 
