@@ -18,6 +18,9 @@ excerpt: Rarest Evo PA Noob Monkey Overdose Ever.
 --  
 
 There was a Literal Easter egg on the last one but Trust me there's none on this One. however, First 5 People to [Mail me](https://www.torn.com/messages.php#/p=compose&XID=1778676) on Torn Gets 2x Xanax Each.
+cause y'know
+
+![](https://i.oran.pw/images/Tv7Cu.png)
 
 
 Math Dealer Proxima Created a Thread about [How rare is your rarest Weapon](https://www.torn.com/forums.php#/p=threads&f=2&t=16187733&b=0&a=0) with shitton of Math, Equations, Probability and this useful graph  
