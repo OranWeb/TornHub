@@ -20,7 +20,7 @@ I logged back in with enough money to buy shit Armor and guns
 
 >I was a trader back in the day I made something like 5-10b trading back in 2010 decided to take my bank investment which was at 800m after 2 years after I found a parachute i sold for ~300 mil
 
-Things were going alright for LTJELLOMAN till the fateful day when he got himself scammed  
+Things were going alright for LTJELLOMAN untill the fateful day when he got himself scammed  
 
 >got scammed by someone pretending to be staff with a red name and lost 3b of my factions money at the time. I was about to quit because of IRL stuff and me getting scammed was at a horrible time so I was about to quit and tried to explain why my factions mates were going to lose 1b of their money and 2b of mine at the time  
 
