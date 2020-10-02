@@ -31,7 +31,7 @@ Thankfully for LTJELLOMAN he was part of a good supportive faction he recalls th
 LTJELLOMAN currently sits at $108,000,000,000 Networth with his real networth being way higher than this, over $36,000,000,000 in Money Mugged with almost the entire amount being real mugs with only 500M of it being mug protection in the old system
 >i only did like 2-3 mug protections back in the day for ~500m
 
-LTJELLOMAN according to his achievements thread set a goal of mugging $5b IN 30 Days but due to his power supply failing he couldn't use his PC anyways he managed to mug $4.532B in 30 days. this was 9 months ago  
+ According to his achievements thread He set a goal of mugging $5b IN 30 Days but due to his power supply failing he couldn't use his PC anyways he managed to mug $4.532B in 30 days. this was 9 months ago  
 >I was waiting to get 5 billion mugged in 30 days to post this but due to a power supply to fail I couldn't use my PC. Therefore I cant wait any longer to post this. so in 30 days I've collected a new market tax of 4.532 billion off of some very nice people. Seeing Money mugged $10,223,327,095 is crazy to me.  
 
 ![](https://i.oran.pw/images/gf2Y4.png)
@@ -54,7 +54,7 @@ LTJELLOMAN claims to be mugging for fun and its indeed true according to multipl
 ![](https://media.discordapp.net/attachments/748447645013639208/760662529218707486/fdfebae754368c89af2c480d58b3f02e.png?width=250&height=481)
 (pictured: some salty tears)
 
-LTJELLOMAN mentions some of His most Fun mugs were not his buy mugs but rather quick snipes of someone else's buys,  
+LTJELLOMAN mentions some of his most Fun mugs were not his buy mugs but rather quick snipes of someone else's buys,  
 
 ![](https://i.oran.pw/images/3cgUD.png)  
 
@@ -80,7 +80,8 @@ LTJELLOMAN runs a few Logistics, TVs and a few other types which his Trusted fri
 
 LTJELLOMAN also does stock trading, item trading if they are cheap, he does credit stock trading for contributing a sizeable amount to his Networth.
 
-###### What are his expenses? How expensive is his life style? LTJELLOMAN mentions,
+###### What are his expenses? How expensive is his life style? LTJELLOMAN mentions,  
+
 >I am too cheap to really use anything but I guess cans would be my biggest expense or my "torn kids" most people know I have a lot of IRL friends i play with and I spend more money on them than on myself  
 
 ##### What are LTJELLOMAN's end Goals?  
