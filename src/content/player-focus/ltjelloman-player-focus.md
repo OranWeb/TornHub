@@ -4,7 +4,7 @@ title: 'Player Focus: LTJELLOMAN'
 author: [ORAN]
 tags: ['Player Focus']
 image: ../img/thumb/player-focus-ltjelloman.jpg
-date: '2020-10-01T10:46:37.121Z'
+date: '2020-10-02T10:46:37.121Z'
 draft: false
 excerpt: Player Focus Article of LTJELLOMAN, A Competitive Mugger and Investor
 ---
