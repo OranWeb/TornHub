@@ -6,7 +6,7 @@ tags: ['Daily Forums News']
 image: ../img/thumb/daily-forums-news.jpg
 date: '2020-10-08T10:46:37.121Z'
 draft: false
-excerpt: Why do you wank to Iribuya? 
+excerpt: Why is everyone Wanking to Iribuya?   
 ---
 
 ##### _[go here](../../tags/daily-forums-news/) to read all forums news_   
