@@ -108,6 +108,9 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 <li role="Faction Focus">
                   <Link to="/tags/faction-focus/">Faction Focus</Link>
                 </li>
+                <li role="Player Focus">
+                  <Link to="/tags/player-focus/">Player Focus</Link>
+                </li>
                 <li role="forums">
                   <Link to="/tags/daily-forums-news/"> Forums News</Link>
                 </li>
