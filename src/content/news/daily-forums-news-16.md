@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Daily Forums News 25/9/20'
+title: 'Daily Forums News 8/10/20'
 author: [ORAN]
 tags: ['Daily Forums News']
 image: ../img/thumb/daily-forums-news.jpg
-date: '2020-09-25T10:46:37.121Z'
+date: '2020-10-08T10:46:37.121Z'
 draft: false
-excerpt: Rarest Evo PA Noob Monkey Overdose Ever.
+excerpt: Why do you wank to Iribuya? 
 ---
 
 ##### _[go here](../../tags/daily-forums-news/) to read all forums news_   
