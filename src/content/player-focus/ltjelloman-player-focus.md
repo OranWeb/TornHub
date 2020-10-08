@@ -4,9 +4,9 @@ title: 'Player Focus: LTJELLOMAN'
 author: [ORAN]
 tags: ['Player Focus']
 image: ../img/thumb/player-focus-ltjelloman.jpg
-date: '2020-10-01T10:46:37.121Z'
+date: '2020-10-02T10:46:37.121Z'
 draft: false
-excerpt: LTJELLOMAN is a Competitive Muggers and Investor.
+excerpt: Player Focus Article of LTJELLOMAN, A Competitive Mugger and Investor
 ---
 #### Welcome to Our First [Player Focus](https://torn.oran.pw/tags/player-focus/) Article, in this one we'll be having a good look at [LTJELLOMAN](https://www.torn.com/profiles.php?XID=1161626) who has sat down with me for the Interview. LTJELLOMAN is a Competitive Mugger and Investor, He also may or may not have mugged $70,955,303 from me during the interview.
 
