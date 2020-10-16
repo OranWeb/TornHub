@@ -42,7 +42,7 @@ Then, a light at the end of the tunnel, I found the winner of Mr Torn for 8 year
 ![](https://i.imgur.com/kAhErAJ.jpg)  
 Panzer claims its a "match made in heaven" I hope the angel opens their eyes and realizes their mistake.  
 
-Stretch creates his belated Seaman win thread. he ends with this note and a photoshoot.  
+Stretch creates his belated Seaman [win thread](https://www.torn.com/forums.php?p=threads&f=2&t=16190748&b=0&a=0). he ends with this note and a photoshoot.  
 >As with tradition now, part of that deal is that I get in theme and do a photoshoot, this year, with difficulty of dipping myself into some overly saline solutions, I had to go with more of a prop gag. I salute each and every Se(a)men, you found hard and proud, you have my respect and my appreciation for all the work you did.
 
 ![](https://profileimages.torn.com/6833e4cd-36da-2ef1-1846075.png)  
