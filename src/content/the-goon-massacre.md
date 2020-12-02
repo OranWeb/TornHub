@@ -32,7 +32,7 @@ So the Entire Ordeal seems to have Started 3 Months ago on/around september when
 ![](https://i.ibb.co/mHHCJ4N/IMG-20201127-224038.jpg)  
 ![](https://i.imgur.com/jByefG9.png)  
 
-At the Time of Thread creation the Number of factions raiding goon was 13, now its 22 thats almost a 76% incease. 
+At the Time of Thread creation the Number of factions raiding goon was 13, now its 22 thats almost a 69% incease. 
 
 ##### The Factions Raiding Goons at the Moment are:
 1. Bully Beatdown
@@ -68,7 +68,14 @@ Here's an Apology letter sent by the Goon Leader
 ![](https://i.imgur.com/8vJzVsN.jpg)  
 ![](https://i.imgur.com/iVJhWYb.jpg)  
 
+### Is this it?
+Probably yes i guess, there's really no way of knowing if they'll ever truce given the history of negotations that took place (or the lack there of) and the fact that goons keep on shooting their own foot. This is one of those times when you do not get into trouble at first, but the trouble slowly keeps on building and building only to be unleashed on one fine day. Hopefully if this ever ends we get to hear from both sides who have been really silent when i reaced out to them.  
 
+Guess i'll leave you guys hanging with this quote from [masyrne](https://www.torn.com/profiles.php?XID=2581320)  
+
+>the folks I've been speaking with from the non-goon side have been calling it the "Great Thanksgiving Massacre of 2020" while the goons are calling it the "Unfortunate Bear Poke of 2020".
+
+I will update this once i get more info in. 
 
 
 #### If you'd like to read more articles, go [here](https://torn.oran.pw).  
