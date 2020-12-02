@@ -8,7 +8,7 @@ date: '2020-12-02T10:46:37.121Z'
 draft: false
 excerpt: Why is Everyone and their Mum raiding the Goons?
 ---
-##### So picture this in your head, its a Lazy Monday Evening and you're just trying to disguise Torn as yet another important site and play while working and then you look up at the new News Ticker feature and see something about a goof... wait what is goof? oh no its Goon and [holy shit 32 pages and 150+ likes wtf? This must be huge right? right?](https://www.torn.com/forums.php?p=threads&f=9&t=16198535&b=0&a=0)  
+#### So picture this in your head, its a Lazy Monday Evening and you're just trying to disguise Torn as yet another important site and play while working and then you look up at the new News Ticker feature and see something about a goof... wait what is goof? oh no its Goon and [holy shit 32 pages and 150+ likes wtf? This must be huge right? right?](https://www.torn.com/forums.php?p=threads&f=9&t=16198535&b=0&a=0)  
 
 Yes Indeed it is, At the Time of Writing over 22 Factions and a Raid score over 23k now that is HUGE, No Not the raid score but the number of factions raiding. A 22 vs 1 what could have these Goons possibly have done?  
 
