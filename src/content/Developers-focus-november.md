@@ -15,8 +15,14 @@ Developer's Focus are incredible to stay updated about the upcoming changes/upda
 That being said Lets figure out what Developer's were focusing on for the Month of Nobember:- 
 
 ### 1. Project Management
-Chedburn is responsible for Managing all Torn Projects Project management is basically the process of leading the work of the team to achieve goals and meet success criteria at a specified time.  
-From what i've heard, Project Docs are created by Chedburn and are Submitted to Developers for them to work on.   
+Chedburn is responsible for Managing all Torn Projects. Project management is basically the process of leading the work of the team to achieve goals and meet success criteria at a specified time.  
+From what i've heard, Project Docs are created by Chedburn and are Submitted to Developers for them to work on.  
+
+### 2. Crimes 2.0
+~~The Future of Crimes that may one day arrive on 2089~~ Crimes 2.0 is the New Version of Crimes, First Teased many many years ago and is currently being developed, it is perhaps one of the Largest Project Torn has been working on and was [55% Complete at 22/02/2016](https://www.torn.com/forums.php?p=threads&f=1&t=15964643&b=0&a=0&start=0&to=16862702) although the post states "Initial Release" I believe Chedburn has changed his mind and it will be released in Full at once.   
+> Crimes 2.0 is pretty cool, I don't want to talk about this because I think it's a long way off, but it is progressing slowly. We've just hired a creative writer to initially plan the detailed structure and formatting of the crime results.
+- Chedburn Circa 2016 
+
 
 
 
