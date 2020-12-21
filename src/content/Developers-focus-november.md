@@ -3,7 +3,7 @@ layout: post
 title: 'Developers Focus November 2020 Explained'
 author: [ORAN]
 tags: ['Explained']
-image: img/thumb/the-goon-massacre.jpg
+image: img/thumb/
 date: '2020-12-21T10:46:37.121Z'
 draft: false
 excerpt: What were the Developer's focused on for November?
@@ -14,17 +14,23 @@ Developer's Focus are incredible to stay updated about the upcoming changes/upda
 
 That being said Lets figure out what Developer's were focusing on for the Month of Nobember:- 
 
-### 1. Project Management
+### 1. Project Management  
 Chedburn is responsible for Managing all Torn Projects. Project management is basically the process of leading the work of the team to achieve goals and meet success criteria at a specified time.  
 From what i've heard, Project Docs are created by Chedburn and are Submitted to Developers for them to work on.  
 
-### 2. Crimes 2.0
-~~The Future of Crimes that may one day arrive on 2089~~ Crimes 2.0 is the New Version of Crimes, First Teased many many years ago and is currently being developed, it is perhaps one of the Largest Project Torn has been working on and was [55% Complete at 22/02/2016](https://www.torn.com/forums.php?p=threads&f=1&t=15964643&b=0&a=0&start=0&to=16862702) although the post states "Initial Release" I believe Chedburn has changed his mind and it will be released in Full at once.   
-> Crimes 2.0 is pretty cool, I don't want to talk about this because I think it's a long way off, but it is progressing slowly. We've just hired a creative writer to initially plan the detailed structure and formatting of the crime results.
-- Chedburn Circa 2016 
+### 2. Crimes 2.0  
+~~The Future of Crimes that may one day arrive on 2089~~ Crimes 2.0 is a complete overhaul of the existing Crimes system. First Teased many many years ago and is currently being developed, It is perhaps one of the Largest Project Torn has been working on and was [55% Complete at 22/02/2016](https://www.torn.com/forums.php?p=threads&f=1&t=15964643&b=0&a=0&start=0&to=16862702) although the post states "Initial Release" I believe Chedburn has changed his mind and it will be released in Full at once.   
+> Crimes 2.0 is pretty cool, I don't want to talk about this because I think it's a long way off, but it is progressing slowly. We've just hired a creative writer to initially plan the detailed structure and formatting of the crime results. -[Source](https://www.torn.com/forums.php?p=threads&f=1&t=15973100&b=0&a=0&start=0&to=17056842)  
 
+### 3. Full activity log  
 
+Actiivty Log was released earlier this year on [26/05/20](https://www.torn.com/forums.php#/p=threads&f=1&t=16164561) but it was only an initial release,
 
+> Once we're happy that the 'Recent History' panel is working as expected, we're planning on adding a full 'Activity Log' page that will allow you to search through all of your logs by category and date ranges. We're planning to store all logs forever, so you'll have a complete history of everything that you've ever done.  
+
+The Full Activity Log will be released in the future, it will be located in a seperate page. If you're impatient and would like to export current logs here's a [Nice Scrip](https://www.torn.com/forums.php#/p=threads&f=67&t=16198776&b=0&a=0) by Lugburz it allows you to filter as well export as CSV file. It does however require you to select on the activity log and hold the page down button, unless you're on a Macbook Air like me.  
+  
+### 4.   
 
 
 
