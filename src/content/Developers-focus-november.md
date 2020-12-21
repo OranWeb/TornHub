@@ -2,8 +2,8 @@
 layout: post
 title: 'Developers Focus November 2020 Explained'
 author: [ORAN]
-tags: ['Explained']
-image: img/thumb/
+tags: ['Developer Focus']
+image: img/thumb/developers-focus-nov.jpg
 date: '2020-12-21T10:46:37.121Z'
 draft: false
 excerpt: What were the Developer's focused on for November?
@@ -174,7 +174,14 @@ Making changes to the News Ticker's Code.
 ### 41. Legendary bonus icons
 They're working on Red / 'Legendary' Weapon Bonuses.  The final class of weapon bonuses. They are 25 times more rare than Epic class bonuses.  
 
-### 42. 
+### 42. Block users from chatting with banned players
+
+If you're trying to chat with a user that's been chat banned an icon will show as you're "blocked" from chatting with them. 
+
+### 43. Bothunter anti-cheat system data collection
+
+Collecting data from known bots that will be fedded soon and perfecting the BotHunter's system for the particular use case.  
+
 
 #### If you'd like to read more articles, go [here](https://torn.oran.pw).  
 #### If you have an idea for an article in mind, join [TornHub Discord](https://discord.gg/yvNCTXB) and post in #article-suggestion channel or PM [ORAN](https://www.torn.com/profiles.php?XID=1778676) in-game.

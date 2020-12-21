@@ -22,6 +22,6 @@
 - id: Wars
   description: A segment where we Faction and Person Wars
   image: img/temp/welcome-to-tornhub.jpg
-- id: Explained
-  description: A segment where we Explain the most asked topic's. 
-  image: img/temp/welcome-to-tornhub.jpg
+- id: Developer Focus
+  description: A segment where we cover Developer's Focus section of the Patch Notes. 
+  image: img/temp/developers-focus.jpg
