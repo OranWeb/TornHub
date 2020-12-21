@@ -33,10 +33,10 @@ The Full Activity Log will be released in the future, it will be located in a se
 ### 4. Loadouts release
 New Loadout system was released on 03/11/20 right after patch #166  
 >We've just released a system for managing different equipment loadouts, you'll now see this at the top of the Items page. This has the following features...
-- See your currently equipped armor and clothing. Click on the image to enlarge it.
-- Weapons, Armor, Clothing, Mods & Ammunition you equip is saved in a Loadout.
-- Rename loadouts, and swap between them depending on your requirements.
-- Click or tap a weapon's ammunition to instantly toggle between special ammunitions.
+ See your currently equipped armor and clothing. Click on the image to enlarge it.
+ Weapons, Armor, Clothing, Mods & Ammunition you equip is saved in a Loadout.
+ Rename loadouts, and swap between them depending on your requirements.
+ Click or tap a weapon's ammunition to instantly toggle between special ammunitions.
 
 
 
