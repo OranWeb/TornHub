@@ -26,12 +26,17 @@ From what i've heard, Project Docs are created by Chedburn and are Submitted to 
 
 Actiivty Log was released earlier this year on [26/05/20](https://www.torn.com/forums.php#/p=threads&f=1&t=16164561) but it was only an initial release,
 
-> Once we're happy that the 'Recent History' panel is working as expected, we're planning on adding a full 'Activity Log' page that will allow you to search through all of your logs by category and date ranges. We're planning to store all logs forever, so you'll have a complete history of everything that you've ever done.  
+> Once we're happy that the 'Recent History' panel is working as expected, we're planning on adding a full 'Activity Log' page that will allow you to search through all of your logs by category and date ranges. We're planning to store all logs forever, so you'll have a complete history of everything that you've ever done.  -[Source](https://www.torn.com/forums.php#/p=threads&f=1&t=16164561)
 
 The Full Activity Log will be released in the future, it will be located in a seperate page. If you're impatient and would like to export current logs here's a [Nice Scrip](https://www.torn.com/forums.php#/p=threads&f=67&t=16198776&b=0&a=0) by Lugburz it allows you to filter as well export as CSV file. It does however require you to select on the activity log and hold the page down button, unless you're on a Macbook Air like me.  
   
-### 4.   
-
+### 4. Loadouts release
+New Loadout system was released on 03/11/20 right after patch #166  
+>We've just released a system for managing different equipment loadouts, you'll now see this at the top of the Items page. This has the following features...
+- See your currently equipped armor and clothing. Click on the image to enlarge it.
+- Weapons, Armor, Clothing, Mods & Ammunition you equip is saved in a Loadout.
+- Rename loadouts, and swap between them depending on your requirements.
+- Click or tap a weapon's ammunition to instantly toggle between special ammunitions.
 
 
 
