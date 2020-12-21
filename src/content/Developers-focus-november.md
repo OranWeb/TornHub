@@ -10,7 +10,7 @@ excerpt: What were the Developer's focused on for November?
 ---
 #### Disclaimer: I Had No Special Priviledged Access to Information, what you're about to read is entirely My own Thoughts and research into the Topics. This Article Cover's Patchlist #166 to #169. 
 
-Developer's Focus are incredible to stay updated about the upcoming changes/updates to the game,  for instance "Crime Writing" which Alice has been focusing on for Eternity and __will focus on for Eternity.__  
+Developer's Focus are incredible to stay updated about the upcoming changes/updates to the game,  for instance "Crime Writing" which Alice has been focusing on for Eternity and _will focus on for Eternity._
 
 That being said Lets figure out what Developer's were focusing on for the Month of Nobember:- 
 
