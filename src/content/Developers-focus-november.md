@@ -3,7 +3,7 @@ layout: post
 title: 'Developers Focus November 2020 Explained'
 author: [ORAN]
 tags: ['Developer Focus']
-image: img/thumb/developers-focus-nov.jpg
+image: https://i.imgur.com/ACMhXnK.jpg
 date: '2020-12-21T10:46:37.121Z'
 draft: false
 excerpt: What were the Developer's focused on for November?
