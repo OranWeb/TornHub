@@ -14,9 +14,9 @@ The Obviously cringe uncreative name aside, [TornHub](https://torn.oran.pw) is a
 
 ### What are the features of TornHub?  
 
-1. TornHub is free to use.
+1. TornHub is free to Access.
 2. TornHub is Open Source (source code available at [Github](https://github.com/OranWeb/tornhub))
-3. Tornhub is Actively Developed, Maintained and Updated.
+3. Tornhub is Actively Developed, Maintained and Updated. 
 4. TornHub Hosts user generated content all about Torn.
 
 ## Why Does TornHub Exist?
@@ -28,6 +28,9 @@ We Plan to release a few categories of Articles (and more will be worked upon an
 3. [What is Happening](../tags/what-is-happening)  
 4. [Daily Forums News](../tags/daily-forums-news/)  
 5. [Experiments](../tags/experiments)  
+6. [Player Focus](../tags/player-focus)
+7. [Wars](../tags/wars)
+8. [Developers Focus](../tags/developer-focus)
 
 _Please Note: "Daily Forums News" is only the segment's title and the news may not actually be published daily._
 
