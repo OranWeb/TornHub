@@ -16,6 +16,11 @@ excerpt: Why is Everyone and their Mum Dropping Bombs?
 
 Hcom3 Actually [quit a Year ago](https://www.torn.com/forums.php#/p=threads&f=2&t=16169821&b=0&a=0), He only came back for Elimination 2020 where he [lead Karma Farmers to Top 4](https://www.torn.com/forums.php#/p=threads&f=2&t=16187049&b=0&a=0&start=0&to=20798741) then went dark again till.... he finally decided to login 2 weeks ago and call it quits for once and all. He decided to run a [giveaway](https://www.torn.com/forums.php?p=threads&f=13&t=16215207) and kept doing RR Matches till he finally won enough to buy a Dirty Bomb. 
 
+>I was bored really. I doubled up in RR once and someone told me that if I did it once more, I could buy a DB. I just said "fuck it". Got lucky, got a bomb, and here we are.
+
+>When I was just starting the RR games, looking to double up so I could buy the DB, I was wanting to bomb cheds faction. It would have been really dumb, and pointless as he can just change the respect values himself. However I decided closer to the bomb detonation point that I wanted it to be an actual faction. In the end I was considering doing IBB, or SA. I chose SA mainly because they have already been DBed, and it would have been really funny for them to get hit... again. 
+I wanted this to be special, and PrincessJulie jokingly came up with the idea that I make a thread when I plant it that I am bombing NS II. It would be pretty unexpected and when the actual bomb happened it would be pretty fucking funny. So I went with that. I not so patiently waited for the bomb to prime, waited some more for a friend to fly and planted. I made the thread, and here we are today :)
+
 #### The Drop 
 
 After pulling a huge Troll on the forums where he claimed he dropped the bomb on NATURAL SELECTION II the faction he was in before he quit, On Bomb Detonation the truth was out, He dropped the bomb on Subversive Alliance 
