@@ -14,7 +14,7 @@ excerpt: Why is Everyone and their Mum Dropping Bombs?
 
 ### The Hcom3 Bomb
 
-Hcom3 Actually [quit a Year ago](https://www.torn.com/forums.php#/p=threads&f=2&t=16169821&b=0&a=0), He only came back for Elimination 2020 where he [lead Karma Farmers to Top 4](https://www.torn.com/forums.php#/p=threads&f=2&t=16187049&b=0&a=0&start=0&to=20798741) then went dark again till.... he finally decided to login 2 weeks ago and call it quits for once and all. He decided to run a [giveaway](https://www.torn.com/forums.php?p=threads&f=13&t=16215207) and kept doing RR Matches till he finally won enough to buy a Dirty Bomb. 
+Hcom3 Actually [quit a Year ago](https://www.torn.com/forums.php#/p=threads&f=2&t=16169821&b=0&a=0), He only came back for Elimination 2020 where he [lead Karma Farmers to Top 4](https://www.torn.com/forums.php#/p=threads&f=2&t=16187049&b=0&a=0&start=0&to=20798741) then went dark again till.... he finally decided to login 2 weeks ago and call it quits once and for all. He decided to run a [giveaway](https://www.torn.com/forums.php?p=threads&f=13&t=16215207) and kept doing RR Matches till he finally won enough to buy a Dirty Bomb. 
 
 >I was bored really. I doubled up in RR once and someone told me that if I did it once more, I could buy a DB. I just said "fuck it". Got lucky, got a bomb, and here we are.
 
