@@ -10,6 +10,8 @@ excerpt: Why is Everyone and their Mum Dropping Bombs?
 ---
 #### March resulted in a total of 5 Dirty Bombs being dropped Why tho?  
 
+![](https://i.oran.pw/images/j9mLm.jpeg)
+
 ### The Hcom3 Bomb
 
 Hcom3 Actually [quit a Year ago](https://www.torn.com/forums.php#/p=threads&f=2&t=16169821&b=0&a=0), He only came back for Elimination 2020 where he [lead Karma Farmers to Top 4](https://www.torn.com/forums.php#/p=threads&f=2&t=16187049&b=0&a=0&start=0&to=20798741) then went dark again till.... he finally decided to login 2 weeks ago and call it quits for once and all. He decided to run a [giveaway](https://www.torn.com/forums.php?p=threads&f=13&t=16215207) and kept doing RR Matches till he finally won enough to buy a Dirty Bomb. 
@@ -49,9 +51,11 @@ According to his latest forum thread, upon returning to Torn from the Forbidden 
 #### The Drops 
 
 [Bomb 1](https://www.torn.com/forums.php#/p=threads&f=2&t=16216476&b=0&a=0)
->The faction has been severely hit by a dirty bomb, decreasing its respect by 446,720 to 7,028,461.
+>The faction has been severely hit by a dirty bomb, decreasing its respect by 446,720 to 7,028,461.  
+
 [Bomb 2](https://www.torn.com/forums.php#/p=threads&f=2&t=16216476&b=0&a=0)
->Your dirty bomb has detonated, injuring 486 citizens and severely damaging Mentos and Cola,decreasing its respect by 438,612 to 6,601,549.	
+>Your dirty bomb has detonated, injuring 486 citizens and severely damaging Mentos and Cola,decreasing its respect by 438,612 to 6,601,549.	  
+
 [Bomb 3](https://www.torn.com/forums.php#/p=threads&f=2&t=16216476&b=0&a=0)
 >508 injured as Dirty Bomb detonates near Mentos and Cola's headquarters reducing respect by 404,688The faction has been severely hit by a dirty bomb, decreasing its respect by 404,688 to 6,204,032.	 
 
@@ -69,7 +73,9 @@ Right after Bling_Bling dropped their first bomb, while he and few others that o
 
  The bomb detonated at Natural Selection HQ. The suspected bomber acccording to the forums is Miro Leader of Subversive Alliance rumored to have dropped the bomb as retaliation for the Hcom3 bomb. However these are only rumors for now since there's no official confirmation as of yet. 
 
-![](https://i.imgur.com/JrHv7gu.png)
+![](https://i.imgur.com/JrHv7gu.png) 
+
+Curious Minds are welcome to view this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZwx5UKq-rfVl6KJdZ9a4sUqqLux2P_USgDeg6knfyoyH4f9yvJ7rQrBSY6XAcLzXPLrRJb6uib1pq/pubhtml) by Boo feel free to help make additions by dropping your bomb.  
 
 Will Nuclear March continue throughout April? Maybe, Maybe not? Guess we'll find out soon. 
 
