@@ -1,6 +1,6 @@
 # Official Repository for TornHub
 
-**TornHub was a Fan Site for Torn ** 
+**TornHub was a Fan Site for Torn** 
 
 TornHub as of 4/12/2021 is no more. 
 
