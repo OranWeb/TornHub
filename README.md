@@ -2,7 +2,7 @@
 
 **TornHub was a Fan Site for Torn** 
 
-TornHub as of 4/12/2021 is no more. 
+TornHub as of 4/12/2021 is no more.  
 
 if you wish to develop simply gitclone to a local folder, cd into the folder, install Node, install Gatsby CLI and run gatsby develop.  
 
